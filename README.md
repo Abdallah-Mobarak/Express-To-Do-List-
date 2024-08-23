@@ -31,12 +31,11 @@ This is a simple yet powerful backend project for managing a To-Do List, built w
 If you have Docker installed, you can easily spin up MongoDB using Docker Compose:
    ```bash
    docker-compose up -d
- ```
-
-
- 4. **Run the application**:
+    ```
+4. **Run the application**:
     ```bash
-    npm start
+    npm start```
+
 The application will be running on http://localhost:3000.
 
 ## Usage 🎯
